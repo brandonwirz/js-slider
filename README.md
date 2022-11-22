@@ -9,4 +9,4 @@ return '$' + totalSavings + ` in monthly savings`;
 console.log(computeDiscount(315, 4, 5,.2));
 
 
-<img width="339" alt="Screenshot 2022-11-21 at 9 12 11 PM" src="https://user-images.githubusercontent.com/17913209/203222351-8eb583d7-c104-42a7-8705-2af123e5b4be.png">
+<img width="324" alt="Screenshot 2022-11-21 at 9 38 56 PM" src="https://user-images.githubusercontent.com/17913209/203223908-96d2c9e7-5e5f-427a-b918-5a6fffc0f786.png">
