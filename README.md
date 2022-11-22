@@ -7,3 +7,7 @@ totalSavings = totalMonthlyGallons _ fuelCost _ discount;
 return '$' + totalSavings + ` in monthly savings`;
 }
 console.log(computeDiscount(315, 4, 5,.2));
+
+
+
+
